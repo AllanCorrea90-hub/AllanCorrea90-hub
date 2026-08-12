@@ -145,9 +145,7 @@ Busco oportunidades que me permitam:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanCorrea90-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanCorrea90-hub&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AllanCorrea90-hub&theme=tokyonight" />
 
 </div>
 
@@ -157,7 +155,7 @@ Busco oportunidades que me permitam:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AllanCorrea90-hub&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=AllanCorrea90-hub&theme=tokyonight" />
 
 </div>
 
